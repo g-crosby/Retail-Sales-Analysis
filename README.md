@@ -1,4 +1,4 @@
-# Sales
+# Retail Sales Analysis
 
 This project used a dataset showcasing quarterly retail sales for a supermarket chain in Myanmar. The main goal was to pose six questions that could be answered from the data to hopefully drive business made decisions. 
 
